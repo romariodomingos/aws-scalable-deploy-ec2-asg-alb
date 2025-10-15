@@ -62,14 +62,14 @@ Cada obstáculo representou uma oportunidade real de aprendizado prático.
 - Ferramentas como **ChatGPT (GPT-5)** ajudam a resolver dúvidas técnicas de forma contextual.  
 - **Resiliência** é essencial: configurar corretamente demanda paciência e ajustes contínuos.  
 
-⏱️ **Tempo total de execução:** +5 horas (do deploy no GitHub à configuração final).  
+⏱️ **Tempo total de execução:** 8 horas (do deploy no GitHub à configuração final).  
 
 ---
 
 ## 🌐 Demonstração Online
 
 A aplicação está ativa e acessível via **Load Balancer da AWS**:  
-🔗 [Acesse aqui o site funcionando](https://<coloca-o-DNS-do-seu-ALB>.amazonaws.com)
+🔗 [Acesse aqui o site funcionando](https://lnkd.in/dPknK7ai)
 
 ---
 
@@ -94,9 +94,8 @@ A aplicação está ativa e acessível via **Load Balancer da AWS**:
 ## 👨🏽‍💻 Autor
 
 **Romão Gando Domingos**  
-Desenvolvedor & Estudante de Engenharia Informática  
-AWS Cloud Enthusiast ☁️ | CTO na INOKRI Solutions  
-🔗 [LinkedIn](https://www.linkedin.com/in/romão-gando-domingos)  
+AWS Cloud Enthusiast ☁️ | Cloud | Finance Analytics | Computer Engineering Student | Project Management
+🔗 [LinkedIn](https://www.linkedin.com/in/rom%C3%A3o-domingos-948003217/)  
 
 ---
 
