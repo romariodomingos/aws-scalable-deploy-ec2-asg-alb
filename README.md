@@ -87,7 +87,7 @@ A aplicação está ativa e acessível via **Load Balancer da AWS**:
 
 ## 📸 Diagrama da Arquitetura
 
-![AWS Architecture Diagram](A_2D_digital_diagram_illustrates_an_AWS_cloud_infr.png)
+![AWS Architecture Diagram](https://github.com/romariodomingos/aws-scalable-deploy-ec2-asg-alb/blob/main/Architecture-Diagram.png?raw=true)
 
 ---
 
